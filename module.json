@@ -6,9 +6,6 @@
 	"esmodules": [
         "./src/vault.js"
 	],
-	"styles":[
-		"./styles/vault/vault.css"
-	],
 	
 	"dependencies": [
 		{
